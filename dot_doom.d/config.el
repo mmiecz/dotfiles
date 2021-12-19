@@ -30,11 +30,27 @@
 ;; If you use `org' and don't want your org files in the default location below,
 ;; change `org-directory'. It must be set before org loads!
 (setq org-directory "~/Dropbox/org/")
+(setq doom-font (font-spec :family "SauceCodePro Nerd Font Mono" :size 13 :weight 'regular)
+      doom-variable-pitch-font (font-spec :family "DejaVu Sans" :size 13)
+      ivy-posframe-font (font-spec :family "SauceCodePro Nerd Font Mono" :size 15))
 
 ;; This determines the style of line numbers in effect. If set to `nil', line
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
 (setq display-line-numbers-type t)
 
+(setq-default fill-column 80)
+;; ORG config
+(defun mm/org-mode-setup ()
+  (org-indent-mode)
+  (variable-pitch-mode 1)
+  (auto-fill-mode 0)
+  (visual-line-mode 1)
+  (diminish org-indent-mode))
+
+(use-package! org
+  :hook (mm/org-mode-setup)
+  :config
+  (setq org-ellipsis " ▼"))
 
 ;; Here are some additional functions/macros that could help you configure Doom:
 ;;
