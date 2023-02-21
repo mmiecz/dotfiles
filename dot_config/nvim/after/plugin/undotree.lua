@@ -1,0 +1,2 @@
+-- all keymaps are handled by which key in whichkey.lua
+-- vim.keymap.set("n", "<leader>u", vim.cmd.UndotreeToggle, {desc = "UndoTree toggle"})

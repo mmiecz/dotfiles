@@ -1,0 +1,2 @@
+2022.12.21 23:18:06 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mmi/.config/nvim/.metals/lsp.trace.json or /Users/mmi/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.12.21 23:18:07 INFO  logging to file /Users/mmi/Sources/aoc-2022/.metals/metals.log[0m

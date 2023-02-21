@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 2b6e0ee929216de36ac2fc017a96ed3868f9da2e Michał Mieczkowski <mieczkowski@fastmail.com> 1671571261 +0100	commit (initial): init my neovim config
+2b6e0ee929216de36ac2fc017a96ed3868f9da2e 5c48a4af39e76602d267df9142ff5f895bff24a9 Michał Mieczkowski <mieczkowski@fastmail.com> 1671571972 +0100	commit: new plugins
+5c48a4af39e76602d267df9142ff5f895bff24a9 1ba08a2f47805d0e1f0352a0915d2ef9b9affd3a Michał Mieczkowski <mieczkowski@fastmail.com> 1671583589 +0100	commit: cleanup, scala
+1ba08a2f47805d0e1f0352a0915d2ef9b9affd3a 926580e0a0a2cf99beecb741079f44a1763d025d Michał Mieczkowski <mieczkowski@fastmail.com> 1671640458 +0100	commit: moving to whichkey
+926580e0a0a2cf99beecb741079f44a1763d025d e2ea6f728d82048f2c32535bf3ea5d0b63eac51c Michał Mieczkowski <mieczkowski@fastmail.com> 1671662080 +0100	commit: More whichkey mappings
+e2ea6f728d82048f2c32535bf3ea5d0b63eac51c 8aabe49e28d3f9b0b9354227c1a1699879e0d503 Michał Mieczkowski <mieczkowski@fastmail.com> 1671667648 +0100	commit: key mappings
+8aabe49e28d3f9b0b9354227c1a1699879e0d503 0000000000000000000000000000000000000000 Michał Mieczkowski <mieczkowski@fastmail.com> 1671702368 +0100	Branch: renamed refs/heads/main to refs/heads/main
+8aabe49e28d3f9b0b9354227c1a1699879e0d503 8aabe49e28d3f9b0b9354227c1a1699879e0d503 Michał Mieczkowski <mieczkowski@fastmail.com> 1671702368 +0100	Branch: renamed refs/heads/main to refs/heads/main
+8aabe49e28d3f9b0b9354227c1a1699879e0d503 b47edf95dc0b623c1bbc46c2e80b8e2495fbe5e9 Michał Mieczkowski <mieczkowski@fastmail.com> 1671702406 +0100	commit: lsp format
+b47edf95dc0b623c1bbc46c2e80b8e2495fbe5e9 f0dfdf2b96ced54c4a1e60fb75214876971edc98 Michał Mieczkowski <mieczkowski@fastmail.com> 1671745038 +0100	commit: buffer commands
+f0dfdf2b96ced54c4a1e60fb75214876971edc98 7b2475b8224acb677919f0d310ae662ad5acf5ce Michał Mieczkowski <mieczkowski@fastmail.com> 1672598056 +0100	commit: couple more
